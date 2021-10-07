@@ -49,16 +49,16 @@ Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 ### Optionale Aufgabenstellung:
 - [ ] Grafische Aufbereitung des Projekts
 - [ ] Zusätzliche Text und Sprite Elemente einfügen und platzieren
-- [ ] Text visuell ändern: color, font, font style, etc.
+- [x] Text visuell ändern: color, font, font style, etc.
 - [ ] Textmesh pro GameObject einfügen und manipulieren 
-- [x] Color Tint Playmode einstellen
+- [ ] Color Tint Playmode einstellen
 
 ### Lessons Learned:
 | Neu gelernt | Wiederholung | Vertiefung | Lernstoff                                                                             |
 |-------------|--------------|------------|---------------------------------------------------------------------------------------|
 |             |       x       |            | Anlegen eines 2D Unityprojektes                                                       |
 |     x        |              |            | Screenindependent Design für 2D Einstellung des Canvas                                |
-|     x        |      x        |            | GameView Auflösung Einstellung                                                        |
+|     x        |              |            | GameView Auflösung Einstellung                                                        |
 |             |              |      x      | Verwendung und Manipulation von UI Elementen Text, Image                              |
 |             |      x        |            | Anordnung GameObjects in Hierarchy hat Auswirkung auf Anordnung der Elemente im Spiel |
 |             |      x       |            | Unity Editor Komponenten: Game View, Scene View, Hierarchy, Inspector, Project        |
