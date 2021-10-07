@@ -24,7 +24,7 @@ https://3ahmns2122mtin.github.io/HelloAgain-smeerws-Uebung01/
 Für den Export in WebGL muss das Modul WebGL in Unity installiert sein.
 
 ### Anforderungen:  
-- [ ] Anlegen eines 2D Unityprojekts mit Namen HelloAgain-yourKürzel
+- [x] Anlegen eines 2D Unityprojekts mit Namen HelloAgain-yourKürzel
 - [x] In Assets einen Folder MyGame erstellen und den Scenes Folder in diesen MyGame Folder ziehen
 - [x] Im Ordner Scenes die SampleScene in HelloAgain umbenennen
 - [x] Im Game View Einstellung 960x600 einstellen
